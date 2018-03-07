@@ -1,0 +1,15 @@
+﻿.text-min {
+    width: 100px;
+}
+
+.text-lar {
+    width: 450px;
+}
+
+.text-nor {
+    width: 250px;
+}
+span {
+    font-size:small;
+    font-family:'Arial Unicode MS';
+}
